@@ -1,2 +1,2 @@
 # Google-Trend-forecasting-using-Facebook-Prophet<br>
-Google Trends forecasting for cloths category using Facebook Prophet Library
+Google Trends forecasting for clothes categories using Facebook Prophet Library
